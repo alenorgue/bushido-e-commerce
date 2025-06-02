@@ -1,0 +1,47 @@
+# Archivos de configuración sensibles
+*.env
+.env.*
+config/database.yml
+*.cnf
+
+# Archivos de volcado de base de datos
+*.sql
+*.sql.gz
+*.dump
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Backups
+backup/
+db/backups/
+*.tar
+*.tar.gz
+*.zip
+
+# Archivos de conexión local
+*.local
+*.DS_Store
+Thumbs.db
+
+# Node (si usas alguna interfaz con Node.js)
+node_modules/
+
+# Python (si usas scripts para importar/exportar)
+__pycache__/
+*.pyc
+
+# Docker (si usas contenedores)
+docker-compose.override.yml
+*.pid
+*.sock
+
+# Visual Studio Code
+.vscode/
+
+# Archivos del sistema
+.idea/
