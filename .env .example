@@ -1,0 +1,4 @@
+MYSQL_ROOT_PASSWORD=example123
+MYSQL_DATABASE=bushido_store
+MYSQL_USER=bushido_user
+MYSQL_PASSWORD=example123
