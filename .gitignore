@@ -45,3 +45,5 @@ docker-compose.override.yml
 
 # Archivos del sistema
 .idea/
+
+data
